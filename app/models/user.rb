@@ -1,3 +1,3 @@
 class User < ActiveRecord::Base
-  v
+  has_secure_password
 end

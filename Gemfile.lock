@@ -106,7 +106,7 @@ DEPENDENCIES
   pry
   rack-test
   rack_session_access
-  rake
+  rake (~> 10.4, >= 10.4.2)
   require_all
   rspec
   shotgun
